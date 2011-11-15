@@ -1,0 +1,12 @@
+{
+  "name": "node-joomla",
+  "version": "1.0",
+  "description": "Connects to a Joomla database and session",
+  "keywords": ["joomla", "web", "database", "session"],
+  "author": "Joe LeBlanc <contact@jlleblanc.com> (http://jlleblanc.com)",
+  "dependencies": {
+    "db-mysql": ">= 0.7.1"
+  },
+  "main": "index",
+  "engines": { "node": ">= 0.4.1" }
+}
