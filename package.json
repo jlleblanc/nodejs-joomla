@@ -7,6 +7,6 @@
   "dependencies": {
     "db-mysql": ">= 0.7.1"
   },
-  "main": "index",
+  "main": "./lib/index",
   "engines": { "node": ">= 0.4.1" }
 }
