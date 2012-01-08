@@ -5,7 +5,7 @@
   "keywords": ["joomla", "web", "database", "session"],
   "author": "Joe LeBlanc <contact@jlleblanc.com> (http://jlleblanc.com)",
   "dependencies": {
-    "db-mysql": ">= 0.7.1"
+    "db-mysql": ">= 0.9.5"
   },
   "main": "./lib/index",
   "engines": { "node": ">= 0.4.1" }
