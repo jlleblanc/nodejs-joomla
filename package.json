@@ -4,6 +4,13 @@
   "description": "Connects to a Joomla database and session",
   "keywords": ["joomla", "web", "database", "session"],
   "author": "Joe LeBlanc <contact@jlleblanc.com> (http://jlleblanc.com)",
+  "repositories": [{
+    "type": "git",
+    "url": "git@github.com:jlleblanc/nodejs-joomla.git"
+  }],
+  "licenses": [{
+    "type": "BSD"
+  }],
   "dependencies": {
     "db-mysql": ">= 0.9.5"
   },
@@ -11,5 +18,7 @@
     "mocha": ">= 0.11.0"
   },
   "main": "./index",
-  "engines": { "node": ">= 0.4.1" }
+  "engines": { 
+    "node": ">= 0.4.1" 
+  }
 }
