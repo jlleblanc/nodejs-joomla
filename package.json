@@ -1,5 +1,5 @@
 {
-  "name": "node-joomla",
+  "name": "joomla",
   "version": "1.0",
   "description": "Connects to a Joomla database and session",
   "keywords": ["joomla", "web", "database", "session"],
