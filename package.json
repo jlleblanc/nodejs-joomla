@@ -12,7 +12,7 @@
     "type": "BSD"
   }],
   "dependencies": {
-    "db-mysql": ">= 0.9.5"
+    "mysql": ">= 0.9.5"
   },
   "devDependencies": {
     "mocha": ">= 0.11.0"
