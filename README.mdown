@@ -12,13 +12,11 @@ You can also clone this repository into your `node_modules` directory.
 
 ## Examples
 
-### Path style - (requires PHP CLI)
+### Path style
 
 	var joomla = require('joomla');
 
-	joomla('/path/to/joomla/site', function  () {
-	  console.log('Joomla site ready');
-	});
+	joomla('/path/to/joomla/site');
 
 
 ### Object literal style
@@ -30,8 +28,6 @@ You can also clone this repository into your `node_modules` directory.
 		user: 'root',
 		host: 'localhost',
 		password: ''
-	}, function  () {
-	  console.log('Joomla site ready');
 	});
 
 ## Authorization
