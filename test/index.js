@@ -8,13 +8,15 @@ describe('Joomla', function  () {
         user: 'root',
         host: 'localhost',
         password: ''
-      }, done);
+      });
+      done();
     });
   });
   
   describe('constructor', function  () {
     it('should take path to Joomla installation', function (done) {
-      joomla(__dirname, done);
+      joomla(__dirname);
+      done();
     });
   });
 
