@@ -1,6 +1,6 @@
 {
   "name": "joomla",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Connects to a Joomla database and session",
   "keywords": ["joomla", "web", "database", "session"],
   "author": "Joe LeBlanc <contact@jlleblanc.com> (http://jlleblanc.com)",
@@ -12,7 +12,7 @@
     "type": "BSD"
   }],
   "dependencies": {
-    "mysql": "0.9.x"
+    "mysql": "2.x.x"
   },
   "devDependencies": {
     "mocha": ">= 0.11.0"
