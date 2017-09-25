@@ -1,6 +1,6 @@
 {
   "name": "joomla",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Connects to a Joomla database and session",
   "keywords": ["joomla", "web", "database", "session"],
   "author": "Joe LeBlanc <contact@jlleblanc.com> (http://jlleblanc.com)",
