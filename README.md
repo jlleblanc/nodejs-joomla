@@ -1,4 +1,4 @@
-# Joomla module for Node.js
+# Joomla connector module for Node
 
 This module assumes you have an existing Joomla installation and wish to connect to it. The constructor takes either a path to the root of the Joomla installation, or a JavaScript object literal with the configuration details. When the module connects to the database, it executes the callback function you pass in.
 
